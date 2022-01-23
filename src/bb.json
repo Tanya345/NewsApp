@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Amazon among key tech firms to drop CES plans on COVID-19 concern - Reuters",
+            "description": "Amazon Inc , Facebook parent Meta Platforms Inc <a href=\"https://www.reuters.com/companies/FB.O\" target=\"_blank\">(FB.O)</a>, Twitter Inc <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> and Pinterest Inc <a href=\"https://www.reu…",
+            "url": "https://www.reuters.com/technology/facebook-will-not-attend-ces-person-over-covid-19-concerns-2021-12-21/",
+            "urlToImage": "https://www.reuters.com/resizer/rqiLV3GjCDFOjYJvxc5Pmh6kxmk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DJBD2GMNLFPBDKLSYEGKYH4Q7M.jpg",
+            "publishedAt": "2021-12-22T04:35:00Z",
+            "content": "Dec 21 (Reuters) - Amazon Inc , Facebook parent Meta Platforms Inc (FB.O), Twitter Inc (TWTR.N) and Pinterest Inc (PINS.N) will not send teams to the Consumer Electronics Show (CES) in Las Vegas as c… [+2664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC 6 South Florida"
+            },
+            "author": "Claudia DoCampo",
+            "title": "MDPD Rapid Deployment Force to Patrol Miami International Airport After Wild Brawl - NBC 6 South Florida",
+            "description": "A special team of officers from Miami-Dade Police's Rapid Deployment Force unit will be patrolling Miami International Airport following a wild brawl involving…",
+            "url": "https://www.nbcmiami.com/news/local/mdpd-rapid-deployment-force-to-patrol-miami-international-airport-after-wild-brawl/2646492/",
+            "urlToImage": "https://media.nbcmiami.com/2021/12/122121-Miami-Dade-Police-officer-vs-passenger-at-Miami-International-Airport.jpg?quality=85&strip=all&fit=1200%2C675",
+            "publishedAt": "2021-12-22T04:03:59Z",
+            "content": "A special team of officers from Miami-Dade Police's Rapid Deployment Force unit will be patrolling Miami International Airport following a wild brawl involving travelers and police that was caught on… [+1003 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Monica Buchanan Pitrelli",
+            "title": "Rethinking your travel plans? If you go, experts have 4 pieces of advice - CNBC",
+            "description": "The fast-moving omicron Covid-19 variant is upending travel plans around the world, but expert recommendations are different this Christmas than in 2020.",
+            "url": "https://www.cnbc.com/2021/12/22/is-it-safe-to-travel-right-now-should-i-cancel-follow-these-4-steps.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106992130-1640090639500-gettyimages-1359982785-img_8658.jpeg?v=1640091082",
+            "publishedAt": "2021-12-22T03:45:00Z",
+            "content": "Flights are booked. Bags are packed.\r\nTo cancel Christmas travel plans seems unfathomable at this point.\r\nBut for many, so does the speed at which the omicron variant is spreading. The highly transmi… [+5901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "McDonald's faces a French fries shortage in Japan - BBC News",
+            "description": "The firm's potato deliveries from North America are being delayed due to supply chain disruptions.",
+            "url": "https://www.bbc.com/news/business-59750613",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3381/production/_122358131_frenchfries.jpg",
+            "publishedAt": "2021-12-22T02:38:48Z",
+            "content": "Image source, Getty Images\r\nThe world's biggest fast food company McDonald's is suffering a chip shortage in Japan due to the global supply chain crisis.\r\nFor the home of the Big Mac though it is not… [+1949 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Levenson and Ben Tinker, CNN",
+            "title": "FDA investigating outbreak of listeria infections connected to Fresh Express packaged salads - CNN",
+            "description": "The Food and Drug Administration announced Tuesday it is investigating a multistate outbreak of listeria infections connected to Fresh Express packaged salads, which announced a recall of some of its products.",
+            "url": "https://www.cnn.com/2021/12/21/us/fresh-express-salad-recall/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211221171839-02-fresh-express-salad-recall-super-tease.jpg",
+            "publishedAt": "2021-12-22T01:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Christina Jewett, Carl Zimmer, Rebecca Robbins",
+            "title": "Hospitals Scramble as Antibody Treatments Fail Against Omicron - The New York Times",
+            "description": "The single remaining monoclonal antibody therapy effective against the variant is now in short supply in the U.S., imperiling an option that doctors and hospitals have relied on.",
+            "url": "https://www.nytimes.com/2021/12/21/health/covid-monoclonal-antibodies-omicron.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/12/21/science/21virus-monoclonals1/21virus-monoclonals1-facebookJumbo.jpg",
+            "publishedAt": "2021-12-22T01:20:22Z",
+            "content": "When the coronavirus variants began emerging a year ago, researchers found that some had gained resistance to monoclonal antibodies. A mutation to their surface proteins prevented the antibodies from… [+1747 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Bradford Betz",
+            "title": "Elon Musk, Jack Dorsey appear to mock ‘Web3,’ the latest buzzword in tech - Fox Business",
+            "description": "Tesla CEO Elon Musk and Jack Dorsey on Monday traded a back-and-forth on Twitter appearing to mock the idea of a forthcoming “Web3,” a buzzword in tech used to describe the next evolutionary phase of the internet.",
+            "url": "https://www.foxbusiness.com/technology/elon-musk-jack-dorsey-mock-web3-latest-buzzword-tech",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/Dorsey-Musk.png?ve=1&tl=1",
+            "publishedAt": "2021-12-22T00:41:14Z",
+            "content": "Tesla CEO Elon Musk and Jack Dorsey on Monday traded a back-and-forth on Twitter appearing to mock the idea of a forthcoming \"Web3,\" a buzzword in tech used to describe the next evolutionary phase of… [+1576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Stankiewicz",
+            "title": "Charts suggest the S&P 500 may not be as strong in 2022 as it was in 2021, says Jim Cramer - CNBC",
+            "description": "The S&P 500 may post further gains in 2021, but technical analyst Carley Garner believes next year could be more challenging, the \"Mad Money\" host said.",
+            "url": "https://www.cnbc.com/2021/12/21/jim-cramer-charts-suggest-sp-500-may-not-be-as-strong-in-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104766841-IMG_9442r-jim-cramer.jpg?v=1507753257",
+            "publishedAt": "2021-12-21T23:42:59Z",
+            "content": "Investors may want to prepare for a more challenging trading environment next year compared with the gains of 2021, CNBC's Jim Cramer said Tuesday, leaning on technical analysis from DeCarley Trading… [+2879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Stankiewicz",
+            "title": "Jim Cramer: Micron practically carried 'the whole market on its back' Tuesday after its strong quarter - CNBC",
+            "description": "\"Because Micron's in everything, the positive pin-action lifted a ton of stocks,\" the \"Mad Money\" host said.",
+            "url": "https://www.cnbc.com/2021/12/21/jim-cramer-microns-strong-quarter-lifted-the-entire-market-tuesday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106862228-1617205970738-gettyimages-1232019082-MICRON_EARNS.jpeg?v=1637363469",
+            "publishedAt": "2021-12-21T23:41:12Z",
+            "content": "Wall Street rallied sharply Tuesday, snapping a three-day losing streak, and CNBC's Jim Cramer believes the quarterly results from Micron Technology played a part in changing market sentiment at leas… [+2013 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Faiz Siddiqui, Rachel Lerman",
+            "title": "Elizabeth Holmes jury asks to take instructions home - The Washington Post",
+            "description": "The court said no to the request by the jury in the Elizabeth Holmes case to take their instructions home.",
+            "url": "https://www.washingtonpost.com/technology/2021/12/21/elizabeth-holmes-jury-instructions/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E4IO5MDBK4I6ZG2ROEY7UGIMLY.jpg&w=1440",
+            "publishedAt": "2021-12-21T23:33:46Z",
+            "content": "Lawyers on both sides agreed with his decision. The jurors have three months of evidence to sift through while considering their decision on whether Holmes, the founder of the blood-testing start-up … [+894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Muyao Shen",
+            "title": "First Mover Asia: Asia Bump Sends Bitcoin Over $49K - CoinDesk",
+            "description": "Selling pressure from Asia appears to be abating, the Hong Kong crypto lender Babel wrote.",
+            "url": "https://www.coindesk.com/markets/2021/12/21/first-mover-asia-asia-bump-sends-bitcoin-over-49k/",
+            "urlToImage": "https://www.coindesk.com/resizer/J2eebVJkcOLJaioFilRlHHXfCFA=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/W5QXFXFPOREABJELKQYZY3XYNI.jpeg",
+            "publishedAt": "2021-12-21T23:30:00Z",
+            "content": "As coming installments of this series will show, the rest of 2021 would be defined by market-moving tweets from electric-vehicle billionaire Elon Musk, rapid price rallies in barely-heard-of alternat… [+202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCCI Des Moines"
+            },
+            "author": null,
+            "title": "Adventureland to be acquired by Palace Entertainment and the changes to come - KCCI Des Moines",
+            "description": "Palace Entertainment has already announced how this will change the experience for attendees in 2022.",
+            "url": "https://www.kcci.com/article/iowa-altoona-adventureland-purchased-by-palace-entertainment/38583433",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/adventureland-0090-1640119711.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2021-12-21T23:20:00Z",
+            "content": "ALTOONA, Iowa —Palace Entertainment announced Tuesday it would be acquiring Adventureland Resort. \r\nAdventureland has been owned and operated by the Krantz family since 1974, containing more than 100… [+1297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Baltimore Sun"
+            },
+            "author": "Meredith Cohn",
+            "title": "Hunt for scarce COVID tests leave Maryland residents scrambling amid surge - Baltimore Sun",
+            "description": "Ahead of the holidays, people in Baltimore and around the state were scrambling to find COVID-19 tests so they could safely gather.",
+            "url": "https://www.baltimoresun.com/coronavirus/bs-hs-scramble-for-covid-tests-20211221-i4lnmxqm75gsjehk3nta4puxqi-story.html",
+            "urlToImage": "https://www.baltimoresun.com/resizer/_G7MOhjpTfEAMlTjJG0-YR60TvA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5X2AAK6BKNA2LPJPNAVF3SCABI.jpg",
+            "publishedAt": "2021-12-21T23:19:34Z",
+            "content": "Melanie Thankappan headed to the Pratt Library in Federal Hill for the branchs 10 a.m. opening, hoping to score a box of COVID-19 rapid tests.\r\nA lot of people were there, and the boxes of test kits … [+8359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Emily McCormick",
+            "title": "Stock market news live updates: Stock futures open little changed - Yahoo Finance",
+            "description": "Stock futures opened flat Tuesday evening after a recovery rally during the regular trading day, with the major equity indexes recouping some losses after...",
+            "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-december-22-2021-231551382.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cxhE1MV2_K1dZcIKhzJivg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-12/4f7f7170-62a9-11ec-bfb6-3e040f87aa4a",
+            "publishedAt": "2021-12-21T23:15:51Z",
+            "content": "Stock futures opened flat Tuesday evening after a recovery rally during the regular trading day, with the major equity indexes recouping some losses after three consecutive sessions of declines. \r\nCo… [+3362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KETV Omaha"
+            },
+            "author": null,
+            "title": "'Win for labor,' Kellogg's strike is over, union votes to pass new five-year contract - KETV Omaha",
+            "description": "Union workers have voted to accept a tentative agreement with the Kellogg Company after 11 weeks on strike.",
+            "url": "https://www.ketv.com/article/union-passes-new-contract-with-kelloggs/38580041",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/ketv/24654002-24654002.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2021-12-21T22:59:00Z",
+            "content": "OMAHA, Neb. —Union workers have voted to accept a tentative agreement on a five-year contract with the Kellogg Company after 11 weeks on strike.\r\n\"I'm feeling a lot of relief, a lot of mixed emotions… [+2754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGAL Susquehanna Valley Pa."
+            },
+            "author": "Barbara Barr",
+            "title": "At-home COVID-19 tests are harder to find - WGAL Susquehanna Valley Pa.",
+            "description": "Doctors have been encouraging people to get tested for COVID-19 before attending holiday gatherings, but it may be a challenge to find an at-home test.",
+            "url": "https://www.wgal.com/article/at-home-covid-19-tests-are-harder-to-find/38584203",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/images/covid-19-test-1640125024.png?crop=1xw:0.9948694029850746xh;center,top&resize=1200:*",
+            "publishedAt": "2021-12-21T22:38:00Z",
+            "content": "LANCASTER COUNTY, Pa. —With the holiday season here and the omicron coronavirus variant spreading, doctors have been encouraging people to get tested for COVID-19 before attending gatherings. But at-… [+735 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Turkish lira up and volatile amid government support moves - Reuters",
+            "description": "The Turkish currency was highly volatileagain on Tuesday as traders digested measures proposed by President Tayyip Erdogan and the Turkish central bank to guard local currency savings against precisely such swings.",
+            "url": "https://www.reuters.com/markets/currencies/turkish-lira-charges-back-after-erdogans-anti-dollarization-plan-2021-12-21/",
+            "urlToImage": "https://www.reuters.com/resizer/sm-x4h-13QwsSOuZVGYkvm0Mv8M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MNOUE7VLLVPUTGQSWTY3UN2O6Y.jpg",
+            "publishedAt": "2021-12-21T22:37:00Z",
+            "content": "ANKARA, Dec 21 (Reuters) - The Turkish currency was highly volatileagain on Tuesday as traders digested measures proposed by President Tayyip Erdogan and the Turkish central bank to guard local curre… [+4164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Bill Gates has canceled most of his holiday plans due to omicron - Fox Business",
+            "description": "Bill Gates says he has abandoned most of his holiday plans due to the rise of COVID-19 variant omicron",
+            "url": "https://www.foxbusiness.com/lifestyle/bill-gates-has-canceled-most-of-his-holiday-plans-due-to-omicron",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/bill-gates1.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-21T22:09:26Z",
+            "content": "Bill Gates announced Tuesday that he has largely scrapped his holiday plans due to the latest COVID-19 variant, omicron, citing concerns over its rapid spread.\r\n\"Just when it seemed like life would r… [+3538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "BlackBerry Reports Third Quarter Fiscal Year 2022 Results - PRNewswire",
+            "description": "/PRNewswire/ -- BlackBerry Limited (NYSE: BB; TSX: BB) today reported financial results for the three months ended November 30, 2021 (all figures in U.S....",
+            "url": "https://www.prnewswire.com/news-releases/blackberry-reports-third-quarter-fiscal-year-2022-results-301449351.html",
+            "urlToImage": "https://mma.prnewswire.com/media/726868/BlackBerry_Logo.jpg?p=facebook",
+            "publishedAt": "2021-12-21T22:05:00Z",
+            "content": "WATERLOO, ON, Dec. 21, 2021 /PRNewswire/ -- BlackBerry Limited (NYSE: BB; TSX: BB) today reported financial results for the three months ended November 30, 2021 (all figures in U.S. dollars and U.S. … [+50864 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jordan Valinsky, CNN Business",
+            "title": "Rite Aid is closing more than 60 stores - CNN",
+            "description": "Rite Aid announced Tuesday it is closing another 63 stores to save about $25 million per year.",
+            "url": "https://www.cnn.com/2021/12/21/business/rite-aid-store-closures/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211221120723-rite-aid-file-122121-super-tease.jpg",
+            "publishedAt": "2021-12-21T21:45:00Z",
+            "content": null
+        }
+    ]
+}
